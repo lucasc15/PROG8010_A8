@@ -1,4 +1,21 @@
-﻿<Window x:Class="ExamScores.MainWindow"
+﻿<!--
+ * Assignment #8 PROG8010, Group 1
+ * Author: Priya
+ * Conestoga College
+ * 
+ * Group members:
+ *      Oleksandr Rudavka
+ *      Jonathan Nagata
+ *      Niral Gandhi
+ *      Tanmay Teckchandani
+ *      Priya Tharuman
+ *      Krishna Kanhaiya
+ *      Lucas Currah
+ * 
+ * 7 November, 2016
+ *
+-->
+<Window x:Class="ExamScores.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
